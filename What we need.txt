@@ -1,0 +1,11 @@
+An "x" indicates that a feature has been added.
+
+1. Chess pieces.
+    x Need to make some art.
+    x Need to be able to move them from 1 square to another.
+    x Pieces need to snap to the chess board squares.
+    x Pieces need to be able to capture other pieces.
+    Pieces should only be able to move to certain squares.
+
+2. Chess board.
+    x Needs to have chess pieces set up in the right way.
